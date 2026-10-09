@@ -9,7 +9,7 @@ Author: WinTune contributors
 PackageName: WinTune
 PackageUrl: https://github.com/Skpow1234/TheWindowsTunning
 License: MIT
-LicenseUrl: https://github.com/Skpow1234/TheWindowsTunning/blob/main/LICENSE
+LicenseUrl: https://raw.githubusercontent.com/Skpow1234/TheWindowsTunning/main/LICENSE
 Copyright: Copyright (c) WinTune contributors
 ShortDescription: Native Windows performance diagnostics for the terminal
 Description: |-
