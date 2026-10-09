@@ -14,9 +14,9 @@ ReleaseDate: 2026-09-20
 Installers:
   - Architecture: x64
     InstallerUrl: https://github.com/Skpow1234/TheWindowsTunning/releases/download/v0.3.0/WinTune-0.3.0-win-x64.zip
-    InstallerSha256: 7E9258883F1DEDEAC8BA305ACAA4B018F2575C245C613C05B092631AB5258FFA
+    InstallerSha256: 321BA650CBFAAFD4B051C8B0A761DC2FD1916AA192AE7E4A66DC2567A3E42DBD
   - Architecture: arm64
     InstallerUrl: https://github.com/Skpow1234/TheWindowsTunning/releases/download/v0.3.0/WinTune-0.3.0-win-arm64.zip
-    InstallerSha256: 618847F38F4C47CA1C31AFF2725E91E04A50B64FFAD7DAA0973CC4A5753A7C9B
+    InstallerSha256: E335DE53F8B32968502D6B4603A854010878FAFF608F6771297F36E554C31226
 ManifestType: installer
 ManifestVersion: 1.6.0
